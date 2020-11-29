@@ -103,3 +103,36 @@ def remove_char(s)
    s = x.join
    p s
 end
+
+### 2020-27-11
+I looked into hashes more
+
+#### Learnings:
+myhash.each do end / myhash { |some_key, some_value | puts this}
+
+
+#### Questions:
+1. Måste man alltid ange både key och value?
+2. Hur ser kopplingen ut mellan some_key, some_value och det som kommer efter andra | ?
+3. Vad heter de olika delarna i each metoden?
+
+
+
+#### Look-up:
+I want practice ternerays in ruby and in JS
+
+#### Katas solved: 1 - Calculate BMI in ruby
+
+### 2020-28-11
+I worked with the console to modify styling in css in our php wordpress sites.
+
+#### Learnings:
+myhash.each do end / myhash { |some_key, some_value | puts this}
+
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
+0
