@@ -133,6 +133,18 @@ myhash.each do end / myhash { |some_key, some_value | puts this}
 #### Questions:
 
 #### Look-up:
+I want to practice ternary operators in ruby and in JS
 
 #### Katas solved:
-0
+
+
+### 2020-12-01
+Remade area code / dial book challenge.
+#### Learnings:
+I remade the dial book with symbols instead of strings. Didn't work in the final stage though.
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved: 1 - Beginner Series #4 Cockroach
