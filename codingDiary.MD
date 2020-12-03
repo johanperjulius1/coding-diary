@@ -148,3 +148,36 @@ I remade the dial book with symbols instead of strings. Didn't work in the final
 #### Look-up:
 
 #### Katas solved: 1 - Beginner Series #4 Cockroach
+
+---------------------------------------------------
+### 2020-12-02
+Starting with a Kata in ruby. Then moving to JS and udemy ninja course.
+#### Learnings:
+Learning about property vs methods in JS.
+.lentgh is a property. .toUpperCase() is a method. Methods ned to end with () to be called.
+
+Learning to call and console string methods in JS.
+
+Learning about operators.
+
+NaN stands for Not a Number
+
+Jag kallar på element i Arrays på samma sätt i javascript som i ruby
+
+ninjas[1] = 'Fabian' This is how I replace a value in an array
+
+.join() slår ihop alla elements i en array till en string.
+
+Loose vs Strict comparison: == vs ===. Med == kan olika typer / classes, t.ex. '25' och 25 vara samma men inte med strict.
+
+#### Questions:
+
+Använder jag .push() eller .push[] för att lägga till ett värde till en Array i ruby?
+
+För push är det () med pop räcker arrayName.pop, men går med () och [] (Det har ingen effekt eftersom vi ändå bara tar bort sista värdet)
+
+Destructive methods = methods som ändrar ursprunglig array
+
+#### Look-up:
+
+#### Katas solved: 1 in ruby - altERnaTIng cAsE <=> ALTerNAtiNG CaSe
