@@ -180,4 +180,36 @@ Destructive methods = methods som ändrar ursprunglig array
 
 #### Look-up:
 
-#### Katas solved: 1 in ruby - altERnaTIng cAsE <=> ALTerNAtiNG CaSe
+#### Katas solved: 1 in ruby - Alternating Cases
+
+### 2020-12-03
+
+#### Learnings:
+Control flow: Controlling the flow of our code with conditionals, if statements, loops, ternary operators
+
+
+for loop in javascript has 4 initial elements;
+- Initialisation variable. Can be i = 0; for example.
+-Then we have a conditional. Can be for example i < 5;.
+- Final expression. Can be i++
+- The code block in curly brackets. As long as the condition is true, the code block will run once and then go to the final expression and then start over.
+
+
+while loops: Don't have all the first three, only the condition. Instead we put the final expression in the code block, as an example i++ in the end.
+
+
+Do While Loops
+Sometimes we want the code block to execute once no matter if the condition is true or not.
+
+Take while and the condition, move it to after the code block instead of before, then add a do to the before of the code block.
+
+
+Conditional statements - If statements.
+We are not using a count element because we only
+execute the code block once, if the conditions
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved: 1 - Will you make it?
