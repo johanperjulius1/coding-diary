@@ -213,3 +213,35 @@ execute the code block once, if the conditions
 #### Look-up:
 
 #### Katas solved: 1 - Will you make it?
+
+----------------------------------------------------
+### 2020-12-04
+
+#### Learnings:
+In Ruby, when working with attributes of a class, we want work with instance variables. Börjar med @.
+
+Classes, som default, har en metod som heter
+
+def to_s
+end
+När jag försöker print out a class, it default to to_s method and prints out what is in it. By default, we don't have anything in there, so for starter we print whatever the method comes up with by default. Det kan jag ändra på genom att definiera to_s till något.
+
+En class, om jag inte använder attr_accessor :xx, :yy, behöver setter och getter method likt dessa.
+
+  <!-- # def first_name=(name)
+  #   @first_name = name
+  # end
+
+  # def first_name
+  #   @first_name
+  # end -->
+
+Med attr accessor behövs de dock inte. Jag kan skapa nya instances med Class.new = zzz. Jag använder initialize funktionen i en klass för att ge startvärden
+
+Byter till JS efter lunch
+Working with logical operators
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved: 1, ruby - Find the middle element
