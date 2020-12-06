@@ -245,3 +245,32 @@ Working with logical operators
 #### Look-up:
 
 #### Katas solved: 1, ruby - Find the middle element
+----------------------------------------------------
+### 2020-12-05
+
+#### Learnings:
+
+sort_by is a function.
+The core of sorting is that to be able to sort, which requires comparing, elements need to be of the same data type. Start by making sure that what you have is of the same data type.
+
+This is for a hash:
+
+arr.keys.map(&:to_s) this converts all keys to strings.
+
+add .sort_by do |str|
+  str.length
+end
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved: 1, ruby - Sort array by string length
+
+def sort_by_length(arr)
+arr = arr.sort_by {|x| x.length}
+end
+or
+arr = arr.sort_by(&:length)
+or
+arr.sort{|x, y| x.length <=> y.length}
