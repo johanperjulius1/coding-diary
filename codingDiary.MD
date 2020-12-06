@@ -274,3 +274,17 @@ or
 arr = arr.sort_by(&:length)
 or
 arr.sort{|x, y| x.length <=> y.length}
+
+----------------------------------------------------
+### 2020-12-06
+
+#### Learnings:
+
+no one-function way to sort and integer in ruby. All solutions seems to convert to string then sort then convert back to integer.
+One solution did use .digit method though.
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved: 1, ruby - Descending Order
