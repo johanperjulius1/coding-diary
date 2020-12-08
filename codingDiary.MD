@@ -288,3 +288,70 @@ One solution did use .digit method though.
 #### Look-up:
 
 #### Katas solved: 1, ruby - Descending Order
+
+----------------------------------------------------
+### 2020-12-07
+
+#### Learnings:
+JS: Switch statements will execute all code in happy case but also all code for all cases AFTER Happy case. If first is happy, then all of them. If 3rd is happy then 3rd and all after.
+
+if I declare a variable and then change it in and if statement, it is globally (below the if) going to be the new value.
+I can't redeclare a variable globally, but inside an if statement for example, I can. let and const only has block-scope. It a variable is not defined in the block, it takes the value that the variable have in the closes block outside. That is with nested blocks. A variable globally can never access a nested (a variable inside a code block.)
+
+
+In JS, functions fall in the object category.
+
+Calling and invoking a function is the same thing.
+Function declaration: giving the function a name and a piece of code that will be executed when invoked.
+
+Function expression: storing a function in a variable (instead of giving it a name when declaring it?). At the end of an expression, after brackets, we shall always have comma, ;. One of the few cases where we will have a comma at the end of a code block. Can then be invoked with variable name followed by parenthesis.
+
+A decleration is when we don't store a function in a variable.
+
+One of the differences between expressions and declaration is hoisting. With declarations, a function is hoisted to the top and can then be used before being declared.
+
+Arrow functions does not work with declarations
+
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved: 1, ruby - Round up to the next multiple of 5
+
+
+----------------------------------------------------
+### 2020-12-08
+
+#### Learnings:
+
+- RUBY
+To capitalize each word in a string I convert it to an array and then use an enumerable method like map.
+Map returns a new array with modification, each returns the old array unchanged
+
+
+What is Enumerable?
+
+Enumerable is a collection of iteration methods, a Ruby module, and a big part of what makes Ruby a great programming language.
+
+Enumerable includes helpful methods like:
+
+map
+select
+inject
+Enumerable methods work by giving them a block.
+
+In that block you tell them what you want to do with every element.
+
+
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved: 1, ruby - Jaden Casing Strings
+
+
+
+
+
