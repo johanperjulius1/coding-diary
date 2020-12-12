@@ -343,6 +343,15 @@ Enumerable methods work by giving them a block.
 
 In that block you tell them what you want to do with every element.
 
+- JAVASCRIPT
+
+Varje gång man tar en variabel och sätter lika med något så är det ett expression.
+Man kan sätta default values i argument genom att sätta argumentet lika med något. Om man sen inte skickar in rätt antal argument skickas default istället (för
+de argument som saknas)
+
+Glöm inte lägga till return när jag definierar en funktion om jag vill att den faktiskt ska returnera något.
+
+Om jag använder en funktion soma argument i en annan funktion så kallas funktion jag för in som argument för en callback function.
 
 
 #### Questions:
@@ -352,6 +361,18 @@ In that block you tell them what you want to do with every element.
 #### Katas solved: 1, ruby - Jaden Casing Strings
 
 
+### 2020-12-12
+
+#### Learnings:
+
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved: 1, ruby - Jaden Casing Strings
+
+Anagram Detection
 
 
 
