@@ -370,9 +370,32 @@ Om jag använder en funktion soma argument i en annan funktion så kallas funkti
 
 #### Look-up:
 
-#### Katas solved: 1, ruby - Jaden Casing Strings
+#### Katas solved: 1, ruby - Anagram Detection
 
-Anagram Detection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
