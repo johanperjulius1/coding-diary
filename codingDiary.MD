@@ -373,7 +373,27 @@ Om jag använder en funktion soma argument i en annan funktion så kallas funkti
 #### Katas solved: 1, ruby - Anagram Detection
 
 
+### 2020-12-14
 
+#### Learnings:
+JS:
+Objects in JS, just like in real life have properties and things they can do (methods). (Min tolkning av skillnaden mellan attribut och properties är att object har properties, element har attribut?)
+
+object literals har curly braces {}. Sen har (eller object)  det objektet har properties. Varje property är ett key-value par.
+Vi kan öppna object på två sätt:
+
+user['email']
+eller
+user.email
+
+forEach är en method för arrays.
+
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
 
 
 
