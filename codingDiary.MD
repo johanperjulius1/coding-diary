@@ -359,7 +359,7 @@ Om jag använder en funktion soma argument i en annan funktion så kallas funkti
 #### Look-up:
 
 #### Katas solved: 1, ruby - Jaden Casing Strings
-
+------------------------------------------------------------------------------------------------------------
 
 ### 2020-12-12
 
@@ -371,7 +371,7 @@ Om jag använder en funktion soma argument i en annan funktion så kallas funkti
 #### Look-up:
 
 #### Katas solved: 1, ruby - Anagram Detection
-
+----------------------------------------------------------------------------------------------------------------
 
 ### 2020-12-14
 
@@ -395,13 +395,45 @@ forEach är en method för arrays.
 
 #### Katas solved:
 
+### 2020-12-20
+----------------------------------------------------------------------------------------------------------------
+#### Learnings:
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
+
+---------------------------------------------------------------------------------------------------------------------
+### 2020-12-21
+
+#### Learnings:
+For each kan inte användas på html collections, däremot på nodelists. Queryselector och queryselectorAll producerar nodelist, getby... producerar html kollektioner.
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
+----------------------------------------------------------------------------------------------------------------------------
+
+### 2020-12-22
+
+#### Learnings:
 
 
+#### Questions:
 
+#### Look-up:
 
-
-
-
+#### Katas solved:
 
 
 
