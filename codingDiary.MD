@@ -435,7 +435,32 @@ For each kan inte användas på html collections, däremot på nodelists. Querys
 
 #### Katas solved:
 
+----------------------------------------------------------------------------------------------------------------------------
 
+### 2020-12-23
+
+#### Learnings:
+.style property istället för queryselector för att ändra t.ex. style.
+I Javascript läses font-size som font minus size. Som namn, använd fontSize istället. Kan alltid undersökas genom att console.log(const.style)
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
+
+
+### 2020-12-24
+
+#### Learnings:
+Github pages för att deploya siter
+startade front-end path på codeacademy.
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
 
 
 
