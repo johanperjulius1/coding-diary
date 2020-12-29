@@ -462,7 +462,21 @@ startade front-end path på codeacademy.
 
 #### Katas solved:
 
+### 2020-12-28
 
+#### Learnings:
+Adding and removing classes: Summary: It is achieved with the .classList.add or .remove methods.
+
+Node relations:
+Node tree is the visual representation of the DOM. It represents our html page. Parents, siblings and children.
+Foreach can't be used on an HTML collection, only on nodelist and Arrays.
+I can convert an HTML collection to an Array,
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
 
 
 
