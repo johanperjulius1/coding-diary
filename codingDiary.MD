@@ -478,6 +478,17 @@ I can convert an HTML collection to an Array,
 
 #### Katas solved:
 
+### 2020-12-29
+
+#### Learnings:
+Event bubbling: When clicking on an element, that element becomes the event target. When that happens, javascript will check if we have an event listener attached to that target, and if we do it will fire the callback for that event listener. (which is the callback in the event listener? The function?). The event then bubbles up the dom from the event arget to the event targets parents and check if we have an eventlistener there. it does that all the way up to the body? If we have, js will fire those events to? (sounds odd. If we have one eventlistener that is fired then all else will be fired too?)
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
+
 
 
 
