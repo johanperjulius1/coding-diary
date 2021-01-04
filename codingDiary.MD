@@ -516,9 +516,19 @@ Event bubbling: When clicking on an element, that element becomes the event targ
 
 #### Katas solved:
 
+----------------------------------------------------------------------------------------------------------------------------
+
+### 2021-01-04
+
+#### Learnings:
+Ett quiz görs med ett form sen gör man input html elements med type, name och value attributes.
 
 
+#### Questions:
 
+#### Look-up:
+
+#### Katas solved:
 
 
 
