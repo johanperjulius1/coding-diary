@@ -525,6 +525,30 @@ Ett quiz görs med ett form sen gör man input html elements med type, name och 
 
 
 #### Questions:
+1. Hur få fram form.q1.value?
+
+2.
+
+const correctAnswers = ["A", "B"];
+const form = document.querySelector(".quiz-form");
+form.addEventListener("submit", (e) => {
+  console.log(form.q1.value);
+  e.preventDefault();
+  let score = 0;
+  const userAnswers = [form.q1.value, form.q2.value];
+  userAnswers.forEach((answer, index) => {
+    if(answer === correctAnswers[index]){
+      score += 50
+    }
+  });
+  console.log(score)
+});
+
+varför funkar answer och index som argument? Är det i någon viss ordning man måste föra in argumenten? För om jag döper om något till något annat kommer de fortfarande att funka!
+
+
+Window.object är the global object in front-end javascript. The mother of all objects - pretty much everything is stored in it.
+
 
 #### Look-up:
 
