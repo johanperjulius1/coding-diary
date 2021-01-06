@@ -554,7 +554,36 @@ Window.object är the global object in front-end javascript. The mother of all o
 
 #### Katas solved:
 
+----------------------------------------------------------------------------------------------------------------------------
+
+### 2021-01-05
+
+#### Learnings:
 
 
+#### Questions:
 
+#### Look-up:
 
+#### Katas solved:
+
+----------------------------------------------------------------------------------------------------------------------------
+
+### 2021-01-06
+
+#### Learnings:
+.filter(); in JS is a non-destructive method - meaning it doesn't alter the original array
+
+när jag använder method chaining så måste () vara med även på de som inte är sist.
+
+EX: const names = xxx
+
+names.sort.reverse() funkar inte utan måste vara names.sort().reverse();
+
+#### Questions:
+
+#### Look-up:
+
+#### Katas solved:
+
+----------------------------------------------------------------------------------------------------------------------------
